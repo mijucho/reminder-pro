@@ -5,6 +5,7 @@
   "author": "mijucho <chomiju38@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "react-app": "^1.1.2",
     "react-redux": "^7.0.3",
     "redux": "^4.0.1"
   }
